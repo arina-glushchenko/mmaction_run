@@ -1,0 +1,8 @@
+clip3.mp4 1
+clip9.mp4 1
+clip16.mp4 1
+clip31.mp4 1
+clip44.mp4 2
+clip45.mp4 2
+clip60.mp4 2
+clip72.mp4 2
